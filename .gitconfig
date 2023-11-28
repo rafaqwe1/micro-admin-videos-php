@@ -1,0 +1,5 @@
+[user]
+	email = rafaqwe1@gmail.com
+	name = Rafael Rodrigues
+[credential]
+	helper = "!f() { /var/www/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/node /tmp/vscode-remote-containers-f32e88c0-cdc4-46ba-afe1-6a00241753b6.js git-credential-helper $*; }; f"
