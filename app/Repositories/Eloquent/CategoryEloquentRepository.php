@@ -83,7 +83,6 @@ class CategoryEloquentRepository implements CategoryRepositoryInterface
         }
 
         $categoryDb->fill([
-            "name" => $category->name,
             'name' => $category->name,
             'description' => $category->description,
             'is_active' => $category->isActive

@@ -2,4 +2,4 @@
 	email = rafaqwe1@gmail.com
 	name = Rafael Rodrigues
 [credential]
-	helper = "!f() { /var/www/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/node /tmp/vscode-remote-containers-f32e88c0-cdc4-46ba-afe1-6a00241753b6.js git-credential-helper $*; }; f"
+	helper = "!f() { /var/www/.vscode-server/bin/af28b32d7e553898b2a91af498b1fb666fdebe0c/node /tmp/vscode-remote-containers-29271a4f-80cb-4005-a645-543fcaab78de.js git-credential-helper $*; }; f"
